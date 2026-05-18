@@ -145,4 +145,5 @@ Note: American put has early exercise premium (0.48 points) — CRR captures thi
 
 Syed Mohammad Zaheen  
 MSc Quantitative Finance  
-GitHub: [iamzaheen](https://github.com/iamzaheen)
+LinkedIn: [iamzaheen](https://linkedin.com/in/iamzaheen) 
+GitHub: [iamzaheen](https://github.com/iamzaheen) 
